@@ -7,6 +7,7 @@ clang
 
 -I/home/rgr/development/arduino/projects/Knob/include
 -I/home/rgr/development/arduino/projects/Knob/src
+-I/home/rgr/development/arduino/projects/Knob/.pio/libdeps/uno/Servo_ID883/src
 -I/home/rgr/.platformio/packages/framework-arduinoavr/cores/arduino
 -I/home/rgr/.platformio/packages/framework-arduinoavr/variants/standard
 -I/home/rgr/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src
