@@ -22,6 +22,6 @@ void loop() {
      // if(fFirstRun){
      //      myservo.write(00);                  // sets the servo position according to the scaled value
      //      fFirstRun=false;
-     }
+     //}
 }
 
